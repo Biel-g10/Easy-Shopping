@@ -8,5 +8,6 @@
 <p>- HTML</p>
 <p>- CSS</p></P>
 
-<img src="https://github.com/Biel-g10/Easy-Shopping/blob/main/assets/screenshot-1763043496649.png?raw=true" width="700px">
+<img src="https://github.com/Biel-g10/Easy-Shopping/blob/main/assets/screenshot-1763043496649.png?raw=true" width="800px"/>
 
+<img src="https://github.com/Biel-g10/Easy-Shopping/blob/main/assets/screenshot-1763043471258.png?raw=true" height= "500px"/>
